@@ -1,4 +1,4 @@
-```markdown
+
 ---
 
 # 🌟✨ **Mastering Python Lists: The Ultimate Guide** 🚀  
