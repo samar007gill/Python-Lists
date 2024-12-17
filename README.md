@@ -8,9 +8,9 @@
 
 ## 📖 **Table of Contents** 🗂️  
 1. 🚀 [What Are Python Lists?](#what-are-python-lists)  
-2. 🧩 [Breaking Down the List Structure](#breaking-down-the-list-structure)  
-3. 🔑 [Key Features of Lists](#key-features-of-lists)  
-4. 🛠️ [Essential List Methods](#essential-list-methods)  
+2.  [Breaking Down the List Structure](#breaking-down-the-list-structure)  
+3.  [Key Features of Lists](#key-features-of-lists)  
+4.  [Essential List Methods](#essential-list-methods)  
    - ➕ [**append(x)**](#appendx)  
    - 🧹 [**clear()**](#clear)  
    - 📄 [**copy()**](#copy)  
@@ -19,8 +19,8 @@
    - 🔗 [**extend(iterable)**](#extenditerable)  
    - ✂️ [**pop(i=-1)**](#popi-1)  
    - 🗑️ [**remove(x)**](#removex)  
-   - 🔁 [**reverse()**](#reverse)  
-   - 🎲 [**sort(key, reverse)**](#sortkey-reverse)  
+   -  [**reverse()**](#reverse)  
+   -  [**sort(key, reverse)**](#sortkey-reverse)  
 5. 🧵 [Going Deeper: Nested Lists](#going-deeper-nested-lists)  
 6. 🧭 [Indexing & Slicing: A Map to Success](#indexing--slicing-a-map-to-success)  
 7. 🔀 [Sorting & Reversing Like a Pro](#sorting--reversing-like-a-pro)  
