@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 📖 **Table of Contents** 🗂️  
 1. 🚀 [What Are Python Lists?](#what-are-python-lists)  
 2. 🧩 [Breaking Down the List Structure](#breaking-down-the-list-structure)  
@@ -28,6 +29,7 @@
 8. ⚖️ [Checking List Equality](#checking-list-equality)  
 9. 🔄 [Looping Through Lists With Style](#looping-through-lists-with-style)  
 10. 🎯 [Key Takeaways & Challenges](#key-takeaways-challenges)  
+
 
 ---
 
