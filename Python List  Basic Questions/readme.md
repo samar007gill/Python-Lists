@@ -2,7 +2,7 @@
 
 ---
 
-### **Methods in Python Lists** 📚  
+### ****Methods in Python Lists** 📚  
 #### **File Structure** 📂  
 1️⃣ **Lists Overview**  
 2️⃣ **Accessing Elements**  
