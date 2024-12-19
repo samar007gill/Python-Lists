@@ -1,8 +1,9 @@
 
+
 ---
 
-### Methods in Python Lists 📚  
-#### File Structure 📂  
+### **Methods in Python Lists** 📚  
+#### **File Structure** 📂  
 1️⃣ **Lists Overview**  
 2️⃣ **Accessing Elements**  
 3️⃣ **Using the `append()` Method**  
@@ -16,12 +17,12 @@
 
 ---
 
-### 1. Defining and Displaying a List 🖍️  
+### **1. Defining and Displaying a List** 🖍️  
 A list is an ordered collection of elements. Lists in Python are highly versatile—they can store multiple data types, and their elements can be accessed using indices.  
 
 ---
 
-### 2. Accessing Elements 🔍  
+### **2. Accessing Elements** 🔍  
 - **First Element:** Access it using index `0`.  
 - **Middle Element:** Use its specific index to retrieve it.  
 - **Last Element:** Access it with index `-1`.  
@@ -32,7 +33,7 @@ A list is an ordered collection of elements. Lists in Python are highly versatil
 
 ---
 
-### 3. Adding an Element with `append()` ➕  
+### **3. Adding an Element with `append()`** ➕  
 The `append()` method allows you to add an element to the **end** of the list.  
 
 🌟 **Highlights:**  
@@ -41,7 +42,7 @@ The `append()` method allows you to add an element to the **end** of the list.
 
 ---
 
-### 4. Inserting an Element with `insert()` 🛠️  
+### **4. Inserting an Element with `insert()`** 🛠️  
 The `insert()` method places an element at a **specific index** in the list.  
 
 📌 **Highlights:**  
@@ -50,7 +51,7 @@ The `insert()` method places an element at a **specific index** in the list.
 
 ---
 
-### 5. Removing an Element with `remove()` ❌  
+### **5. Removing an Element with `remove()`** ❌  
 The `remove()` method deletes the **first occurrence** of a specified element.  
 
 ⚠️ **Highlights:**  
@@ -59,7 +60,7 @@ The `remove()` method deletes the **first occurrence** of a specified element.
 
 ---
 
-### 6. Removing & Returning Elements with `pop()` 🎁  
+### **6. Removing & Returning Elements with `pop()`** 🎁  
 The `pop()` method removes and returns the element at a given index (defaults to the **last** element).  
 
 🎯 **Highlights:**  
@@ -68,7 +69,7 @@ The `pop()` method removes and returns the element at a given index (defaults to
 
 ---
 
-### 7. Counting Occurrences with `count()` 🔢  
+### **7. Counting Occurrences with `count()`** 🔢  
 The `count()` method counts how many times a specific element appears in the list.  
 
 📊 **Highlights:**  
@@ -77,7 +78,7 @@ The `count()` method counts how many times a specific element appears in the lis
 
 ---
 
-### 8. Finding an Element’s Index with `index()` 📍  
+### **8. Finding an Element’s Index with `index()`** 📍  
 The `index()` method finds the **position** of the first occurrence of an element.  
 
 📖 **Highlights:**  
@@ -86,7 +87,7 @@ The `index()` method finds the **position** of the first occurrence of an elemen
 
 ---
 
-### 9. Sorting a List with `sort()` 🔄  
+### **9. Sorting a List with `sort()`** 🔄  
 The `sort()` method arranges the list elements in **ascending order** by default.  
 
 ⚙️ **Highlights:**  
@@ -95,7 +96,7 @@ The `sort()` method arranges the list elements in **ascending order** by default
 
 ---
 
-### 10. Reversing a List with `reverse()` 🔄  
+### **10. Reversing a List with `reverse()`** 🔄  
 The `reverse()` method rearranges the elements in the **opposite order**.  
 
 🔁 **Highlights:**  
@@ -104,7 +105,7 @@ The `reverse()` method rearranges the elements in the **opposite order**.
 
 ---
 
-### Features of Python Lists 📝  
+### **Features of Python Lists** 📝  
 - **Mutable:** Elements can be changed anytime. 🔄  
 - **Ordered:** The order of elements is preserved. 📋  
 - **Flexible:** Lists can contain multiple data types. 🧩  
