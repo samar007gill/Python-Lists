@@ -1,7 +1,7 @@
 # 🚀 **List Methods in Python**  
 
 ## 🗂️ **File Structure**  
-```
+
 01_Lists
 02_index printing
 03_Append method
@@ -12,7 +12,7 @@
 08_find index
 09_sort method
 10_reverse method
-```
+
 
 ---
 
