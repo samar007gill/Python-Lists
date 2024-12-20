@@ -2,17 +2,18 @@
 
 ## 🗂️ **File Structure**  
 
-01_Lists
-02_index printing
-03_Append method
-04_insert method
-05_remove method
-06_pop method
-07_count method
-08_find index
-09_sort method
-10_reverse method
+---
 
+01_Lists  
+02_index printing  
+03_Append method  
+04_insert method  
+05_remove method  
+06_pop method  
+07_count method  
+08_find index  
+09_sort method  
+10_reverse method  
 
 ---
 
